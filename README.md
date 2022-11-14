@@ -29,7 +29,14 @@ Before running the application, first install the following dependencies
 
 ## Usage
 
-To use the Algo Trading Project application, clone the repository and run the **housing_analysis.ipynb** on Jupyter Lab. 
+To access the interactive map, clone the repository and run the **housing_analysis.ipynb** on Jupyter Lab. 
+
+Upon running all of the cells you will see graphical visualizations of various gauages for housing market health in San Francisco. 
+
+Run the following code:
+![runthiscodeformap](Images/runthiscode.PNG)
+---
+this will give access to this
 
 --- 
 
