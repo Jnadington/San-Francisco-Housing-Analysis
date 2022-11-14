@@ -1,4 +1,4 @@
-# Algo Trading Project
+# San Francisco Housing Market Analyzer
 Analyzing housing and rent patterns in San Francisco area to identify proiftable real estate opportunities. Allows user to adjust neighborhood view on interactive map and to hover over areas for additional information. New feautures added as needed. Run on jupyterlab.
 
 --- 
