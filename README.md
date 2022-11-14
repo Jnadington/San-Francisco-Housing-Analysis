@@ -33,11 +33,16 @@ To access the interactive map, clone the repository and run the **housing_analys
 
 Upon running all of the cells you will see graphical visualizations of various gauages for housing market health in San Francisco. 
 
-Run the following code:
-![runthiscodeformap](Images/runthiscode.png)
+Run the following code to access the interactive graph showing (price per sq foot/ gross rent) over time:
+![runthiscodeforinteractivegraph](Images/runthis1.PNG)
+
+You are able to view the neighborhood of your choice by using the dropdown menu to the right.
+
+![interactivegraph](Images/interactivegraph.PNG)
 
 ---
-this will give access to this
+Running the aforementioned code will result in the interactive map.
+
 
 --- 
 
