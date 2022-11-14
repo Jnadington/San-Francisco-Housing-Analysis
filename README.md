@@ -23,10 +23,15 @@ Before running the application, first install the following dependencies
   pip install pandas
   pip install bokeh
   pip install hvplot
-  
 ```
 
 ---
+
+## Usage
+
+To use the Algo Trading Project application, clone the repository and run the **housing_analysis.ipynb** on Jupyter Lab. 
+
+--- 
 
 ## Examples
 
@@ -67,9 +72,7 @@ After running all previous code, the following code gives us the results of the 
 
 ---
 
-## Usage
 
-To use the Algo Trading Project application, clone the repository and run the **housing_analysis.ipynb** on Jupyter Lab. 
 
 
 
