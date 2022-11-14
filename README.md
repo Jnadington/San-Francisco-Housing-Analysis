@@ -34,7 +34,7 @@ To access the interactive map, clone the repository and run the **housing_analys
 Upon running all of the cells you will see graphical visualizations of various gauages for housing market health in San Francisco. 
 
 Run the following code:
-![runthiscodeformap](Images/runthiscode.PNG)
+![runthiscodeformap](Images/runthiscode.png)
 
 ---
 this will give access to this
