@@ -1,7 +1,5 @@
 # Algo Trading Project
-Algo strategy execution with backtest displayed on line price chart with estimated returns. Allows user to adjust candlestick trade timeframe and TP/StopLoss for varying results. New feautures added as needed. Run on jupyterlab.
-
-Currenet strategy revolves around EMA's and ADX. Long positions only. Short position algo will be added with next update.
+Analyzing housing and rent patterns in San Francisco area to identify proiftable real estate opportunities. Allows user to adjust neighborhood view on interactive map and to hover over areas for additional information. New feautures added as needed. Run on jupyterlab.
 
 --- 
 
