@@ -45,7 +45,7 @@ Run the following code to access the interactive heat-map of all the San Francis
 
 Hovering over each circle allows the user to view the sale price per square foot of the neighborhood. The blue heatmap is representing gross rent: the darker the blue the higher the gross rent.
 
-![heatmap](Images/heatmap.PNG)
+![heatmap](Images/heatmap.png)
 
 --- 
 
