@@ -29,7 +29,7 @@ Before running the application, first install the following dependencies
 
 ## Usage
 
-To access the interactive map, clone the repository and run the **housing_analysis.ipynb** on Jupyter Lab. 
+To access the interactive visualizations, clone the repository and run the **housing_analysis.ipynb** on Jupyter Lab. 
 
 Upon running all of the cells you will see graphical visualizations of various gauages for housing market health in San Francisco. 
 
@@ -41,9 +41,12 @@ You are able to view the neighborhood of your choice by using the dropdown menu 
 ![interactivegraph](Images/interactivegraph.PNG)
 
 ---
-Running the aforementioned code will result in the interactive map.
+Run the following code to access the interactive heat-map of all the San Francisco neighborhoods:
+![runthiscode](Images/runthiscode.PNG)
 
+Hovering over each circle allows the user to view the sale price per square foot of the neighborhood. The blue heatmap is representing gross rent: the darker the blue the higher the gross rent.
 
+![heatmap](Images/heatmap.PNG)
 --- 
 
 ## Examples
