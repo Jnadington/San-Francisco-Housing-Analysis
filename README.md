@@ -35,6 +35,7 @@ Upon running all of the cells you will see graphical visualizations of various g
 
 Run the following code:
 ![runthiscodeformap](Images/runthiscode.PNG)
+
 ---
 this will give access to this
 
