@@ -1,9 +1,9 @@
 # San Francisco Housing Market Analyzer
-Analyzing housing and rent patterns in San Francisco area to identify proiftable real estate opportunities. Allows user to adjust neighborhood view on interactive map and to hover over areas for additional information. New feautures added as needed. Run on jupyterlab.
+Analyzing housing and rent patterns in San Francisco area to identify proiftable real estate opportunities. Allows user to adjust neighborhood view on interactive map and to hover over areas for additional information. New feautures added as needed. Run on jupyterlab. Data gathered from 
 
 --- 
 
-## Technologies
+## Technologies/Data
 
 This project leverages Python 3.7 and Jupyter Lab with the following packages:
 
@@ -12,6 +12,9 @@ This project leverages Python 3.7 and Jupyter Lab with the following packages:
 * [HVPlot] (https://github.com/holoviz/hvplot) - Used to create visuals for data analysis
 
 (Import code blocks included in application)
+
+Data was gathered from:
+* [Sfgov.org] (https://data.sfgov.org)
 
 --- 
 
